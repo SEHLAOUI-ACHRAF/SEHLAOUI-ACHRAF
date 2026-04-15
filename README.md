@@ -43,12 +43,6 @@ Currently, I am a **PFE Intern at Segula Technologies**, where I am developing a
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [achraf sehlaoui](https://www.linkedin.com/in/achraf-sehlaoui/)
 - **Email:** sehlaoui.ach.fst@uhp.ac.ma
