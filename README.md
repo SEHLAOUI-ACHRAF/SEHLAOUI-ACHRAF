@@ -1,14 +1,17 @@
 # 👋 Hello, I'm Achraf Sehlaoui
 
-[cite_start]I am a Master’s student in **Network Engineering and Intelligent Telecommunication Systems (IRISTI)** at FST Settat[cite: 8]. [cite_start]I am passionate about the intersection of **Offensive Cybersecurity** and **Artificial Intelligence**, specifically focusing on how AI can automate vulnerability analysis and threat detection[cite: 4, 5].
+I am a Master’s student in **Network Engineering and Intelligent Telecommunication Systems (IRISTI)** at FST Settat. I specialize in the convergence of **Offensive Cybersecurity** and **Artificial Intelligence**. 
+
+Currently, I am a **PFE Intern at Segula Technologies**, where I am developing an autonomous AI agent for automated penetration testing using the Model Context Protocol (MCP).
 
 ---
 
 ### 🛡️ About Me
-- [cite_start]🎓 Currently pursuing a Master’s degree in Sciences and Techniques (IRISTI)[cite: 8].
-- [cite_start]🔍 Actively working on **Autonomous AI Agents** for automated penetration testing[cite: 5].
-- [cite_start]🛠️ Experienced in building **DevSecOps pipelines** and securing **IoT/VoIP architectures**[cite: 14, 18, 21].
-- [cite_start]⚖️ Knowledgeable in **ISO 27001/27005** frameworks and **OWASP Top 10** security standards[cite: 26, 31].
+- 🎓 **Education:** Pursuing a Master in Sciences and Techniques (IRISTI).
+- 💼 **Current Role:** PFE Intern at **Segula Technologies** (Feb 2026 – June 2026).
+- 🔍 **Research:** Focused on AI-driven vulnerability analysis and security automation.
+- 🛠️ **DevSecOps:** Experienced in securing Kubernetes clusters and CI/CD pipelines.
+- ⚖️ **Compliance:** Knowledgeable in ISO 27001/27005 and TISAX implementation.
 
 ---
 
@@ -16,26 +19,27 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cybersecurity** | [cite_start]OWASP Top 10, Network/Endpoint Security, Log Management, ISO 27005 [cite: 30, 31] |
-| **AI & Automation** | [cite_start]Python, TensorFlow, OpenCV, LangChain, Shell Scripting [cite: 15, 32] |
-| **DevOps & Cloud** | [cite_start]Kubernetes (Kubeadm), Docker, GitHub Actions, CI/CD [cite: 32] |
-| **Development** | [cite_start]Java, C, PHP, Laravel, HTML/CSS/JS, PLSQL [cite: 33] |
-| **Systems/Networking** | [cite_start]Linux, Windows, CCNA, CCNP, Asterisk (VoIP) [cite: 21, 33] |
+| **Cybersecurity** | OWASP Top 10, Network/Endpoint Security, ISO 27001/27005 |
+| **AI & Automation** | Google Gemini API, LangChain, Python, TensorFlow, OpenCV |
+| **DevOps & Cloud** | Kubernetes, Docker, GitHub Actions, Streamlit |
+| **Development** | Python, Java, PHP/Laravel, C, MySQL |
+| **Networking** | Linux, CCNA/CCNP, Asterisk VoIP Security |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### [cite_start][DevSecOps Pipeline for Kubernetes](https://github.com/your-username/repo-link) [cite: 18]
-- Integrated security scanning (Docker images) into a CI/CD pipeline using GitHub Actions.
-- [cite_start]Automated vulnerability detection prior to deployment on a Kubeadm cluster[cite: 19].
+#### 🤖 Autonomous AI Agent for Pentesting (PFE)
+- Designing an AI agent based on the **Model Context Protocol (MCP)** to automate penetration testing.
+- Stack: Google Gemini API, Python, LangChain, and Streamlit.
 
-#### [cite_start][Smart Traffic Light System (AI + IoT)](https://github.com/your-username/repo-link) [cite: 11]
-- [cite_start]Developed an AI-based traffic management system using vehicle detection (OpenCV/TensorFlow)[cite: 13, 15].
-- [cite_start]Analyzed the security architecture of the IoT components and built a remote management interface[cite: 14].
+#### 🏗️ DevSecOps Pipeline for Microservices
+- Integrated security scanning for Docker images into a GitHub Actions CI/CD pipeline.
+- Automated vulnerability detection for microservices deployed on Kubernetes.
 
-#### [cite_start][Web Application Security Audit](https://github.com/your-username/repo-link) [cite: 25]
-- [cite_start]Built a recruitment application and performed a manual audit based on OWASP Top 10 principles to mitigate SQLi, XSS, and CSRF vulnerabilities[cite: 26].
+#### 🚦 Smart Traffic Light System
+- Built an AI-based system for vehicle detection and emergency management using OpenCV and TensorFlow.
+- Conducted security analysis of the IoT architecture and remote management interfaces.
 
 ---
 
@@ -46,6 +50,6 @@
 ---
 
 ### 📫 Let's Connect!
-- [cite_start]**LinkedIn:** [achraf sehlaoui](https://www.linkedin.com/in/achraf-sehlaoui/) [cite: 2]
-- [cite_start]**Email:** [sehlaoui.ach.fst@uhp.ac.ma](mailto:sehlaoui.ach.fst@uhp.ac.ma) [cite: 2]
-- **Location:** Morocco 🇲🇦
+- **LinkedIn:** [achraf sehlaoui](https://www.linkedin.com/in/achraf-sehlaoui/)
+- **Email:** sehlaoui.ach.fst@uhp.ac.ma
+- **Location:** Casablanca / Rabat, Morocco
