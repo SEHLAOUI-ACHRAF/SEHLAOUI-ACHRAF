@@ -45,5 +45,5 @@ Currently, I am a **PFE Intern at Segula Technologies**, where I am developing a
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [achraf sehlaoui](https://www.linkedin.com/in/achraf-sehlaoui/)
-- **Email:** sehlaoui.ach.fst@uhp.ac.ma
+- **Email:** sehlaoui.achraf@gmail.com
 - **Location:** Casablanca / Rabat, Morocco
